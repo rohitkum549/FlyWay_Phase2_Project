@@ -8,6 +8,6 @@ FlyAway is a ticket-booking portal that lets people book flights on their websit
 
 # The website needs to have the following features:
  
-*kghjg
-*ycgcj
-*gfxh
+* kghjg
+* ycgcj
+* gfxh
