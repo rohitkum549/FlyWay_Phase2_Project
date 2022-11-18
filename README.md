@@ -8,8 +8,10 @@ FlyAway is a ticket-booking portal that lets people book flights on their websit
 
 # The website needs to have the following features:
 
-● A search form in the homepage to allow entry of travel details, like the date of travel, source, destination, and the number of persons.
-● Based on the travel details entered, it will show the available flights with their ticket prices.
+*h;
+*jb
+*vhjvj
+
  
 
 # For the above features to work, there will be an admin backend with the following features:
